@@ -29,3 +29,18 @@ A C++ problem-solving implementation using conditional statements (`if`) to find
 2
 3 5
 4 9
+
+Output:
+0
+
+
+Example 2
+Input:
+
+5
+2 3
+4 2
+
+Output:
+
+3
